@@ -1,0 +1,8 @@
+*memcolo.txt* Remember latest used colorscheme
+
+Author: Johannes Martinsson
+License: Same terms as Vim itself (see |license|)
+
+Remember the latest used colorscheme and use that next time vim starts.
+
+ vim:tw=78:et:ft=help:norl:
