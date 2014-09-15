@@ -5,4 +5,11 @@ License: Same terms as Vim itself (see |license|)
 
 Remember the latest used colorscheme and use that next time vim starts.
 
+Configuration ~
+
+                                    *g:memcolo_path*
+g:memcolo_path            Path to file where colorscheme is saved. Will
+                          default to ~/.vim/color.vim
+
+
  vim:tw=78:et:ft=help:norl:
