@@ -9,7 +9,7 @@ Configuration ~
 
                                     *g:memcolo_path*
 g:memcolo_path            Path to file where colorscheme is saved. Will
-                          default to ~/.vim/color.vim
+                          default to ~/.vim/memcolo_color.vim
 
 
  vim:tw=78:et:ft=help:norl:

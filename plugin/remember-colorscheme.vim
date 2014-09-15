@@ -6,7 +6,7 @@ function! g:MemcoloPath()
 	if exists('g:memcolo_path')
 		let path=g:memcolo_path
 	else
-		let path='~/.vim/color.vim'
+		let path='~/.vim/memcolo_color.vim'
 	endif
 
 	return expand(path)
